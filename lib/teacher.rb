@@ -7,5 +7,3 @@ class Teacher
   end
 end
 
-  
-end
